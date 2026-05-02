@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xingjian Ran (冉行健). I am a Ph.D. student at the Institute of Data Science (IDS), The University of Hong Kong, under the supervision of Prof. Bo Dai. I received my B.Eng. from the University of Electronic Science and Technology of China (UESTC). My research focuses on 3D/scene generation and spatial intelligence. I am always open to collaboration. Feel free to contact me if you are interested in working together!
+I am Xingjian Ran (冉行健). I am a Ph.D. student at the Institute of Data Science, The University of Hong Kong (HKU IDS), under the supervision of Prof. Bo Dai. I received my B.Eng. from the University of Electronic Science and Technology of China (UESTC). My research focuses on 3D/scene generation and spatial intelligence. I am always open to collaboration. Feel free to contact me if you are interested in working together!
 
 
 # 🔥 News
