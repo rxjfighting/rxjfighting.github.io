@@ -29,6 +29,18 @@ I am Xingjian Ran (冉行健). I am a Ph.D. student at [MMLab](https://mmlab.hk/
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/scenemosaic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution](https://rxjfighting.github.io/SceneMosaic/)
+
+**Xingjian Ran**, Xiaoye Mo, Sihao Liu, Jianyu Zhang, Li Luo, Bo Dai
+
+[**Project**](https://rxjfighting.github.io/SceneMosaic/) | [**Code**](https://github.com/rxjfighting/SceneMosaic)
+- From a single reference image to a physically grounded simulation-ready 3D scene and a diverse family of valid layout variants in minutes.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/pair2scene.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +60,7 @@ I am Xingjian Ran (冉行健). I am a Ph.D. student at [MMLab](https://mmlab.hk/
 
 **Xingjian Ran**, Yixuan Li, Linning Xu, Mulin Yu, Bo Dai
 
-[**Project**](https://directlayout.github.io)
+[**Project**](https://directlayout.github.io) | [**Code**](https://github.com/rxjfighting/DirectLayout)
 - Spatial reasoning-based approach for generating 3D indoor scene layouts directly from numerical representations.
 </div>
 </div>
@@ -72,7 +84,7 @@ Yixuan Li, **Xingjian Ran**, Linning Xu, Tao Lu, Mulin Yu, Zhenzhi Wang, Yuanbo 
 
 Xiaoyu Zhou, **Xingjian Ran**, Xiong Yajiao, Jinlin He, Zhiwei Lin, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 
-[**Project**](https://gala3d.github.io)
+[**Project**](https://gala3d.github.io) | [**Code**](https://github.com/VDIGPKU/GALA3D)
 - Text-to-3D generation framework leveraging layout guidance and Gaussian splatting for complex scenes.
 </div>
 </div>
