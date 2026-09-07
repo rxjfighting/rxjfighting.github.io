@@ -34,7 +34,7 @@ I am Xingjian Ran (冉行健). I am a Ph.D. student at [MMLab](https://mmlab.hk/
 
 [SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution](https://rxjfighting.github.io/SceneMosaic/)
 
-**Xingjian Ran**, Xiaoye Mo, Sihao Liu, Jianyu Zhang, Li Luo, Bo Dai
+**Xingjian Ran**<sup>&#42;</sup>, Xiaoye Mo<sup>&#42;</sup>, Sihao Liu, Jianyu Zhang, Li Luo, Bo Dai
 
 [**Project**](https://rxjfighting.github.io/SceneMosaic/) | [**Code**](https://github.com/rxjfighting/SceneMosaic)
 - From a single reference image to a physically grounded simulation-ready 3D scene and a diverse family of valid layout variants in minutes.
