@@ -104,4 +104,5 @@ Xiaoyu Zhou, **Xingjian Ran**, Xiong Yajiao, Jinlin He, Zhiwei Lin, Yongtao Wang
 - 2021.09 – 2025.06, University of Electronic Science and Technology of China B.Eng. - Rank: 1/100
 
 # 💻 Internships
+- *2026.08 - Present*, [JD Explore Academy](https://research.joyai.com/), China.
 - *2024.10 - 2025.04*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
