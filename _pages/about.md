@@ -29,6 +29,18 @@ I am Xingjian Ran (冉行健). I am a Ph.D. student at [MMLab](https://mmlab.hk/
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/roam-bench.png' alt="ROAM-Bench exploration and evidence verification example" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification](https://rxjfighting.github.io/ROAM-Bench/)
+
+**Xingjian Ran**, Xiaoye Mo, Sihao Liu, Li Luo, Taiqiang Wu, Ji Zhao, Wenqi Shao, Hongyang Li, Jiaqi Wang, Bo Dai
+
+[**Project**](https://rxjfighting.github.io/ROAM-Bench/) | [**Paper**](https://arxiv.org/abs/2611.33143) | [**Code**](https://github.com/rxjfighting/ROAM-Bench)
+- A benchmark of 250 tasks across 27 indoor environments for embodied active spatial intelligence, verifying both task outcomes and required exploration and interactions.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/scenemosaic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
